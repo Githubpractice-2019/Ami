@@ -1,0 +1,6 @@
+1. CREATE DATABASE Factoryworkers
+2. CREATE TABLE Workers (Worker ID INT 
+Worker name Varchar
+Age INT
+Workeraddress Char
+Worker SIN INT)
