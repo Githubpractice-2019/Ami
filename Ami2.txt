@@ -1,0 +1,17 @@
+CREATE TABLE Factoryworkers (
+  Workerid INT(8) NOT NULL,
+  WorkerName VARCHAR(20) Not null,
+  Age INT(2) Not Null,
+  WorkerAddress Varchar(50) Not Null,
+  Workersin Int(10) Not Null)
+  
+    
+INSERT INTO 'Factoryworkers' ('Workerid', 'WorkerName', 
+                              'Age', 'WorkerAddress', 'Workersin')
+
+VALUES ('5', 'Smith', '35', 'Victoria Ave', '2353214'),
+('6', 'Peter', '32', 'Megan Ave', '485663682'),
+
+                           
+    
+;
