@@ -1,0 +1,7 @@
+CREATE TABLE 'Factoryworkers' (
+  'Workerid' INT(8) NOT NULL,
+  'WorkerName' VARCHAR(20) Not null,
+  'Age' INT(2) Not Null,
+  'WorkerAddress' Varchar(50) Not Null,
+  'workersin Int(10) Not Null
+  
